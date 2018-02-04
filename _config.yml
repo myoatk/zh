@@ -23,6 +23,7 @@ twitter_username:
 github_username:  
 
 # Build settings
+baseurl: /zh/
 markdown: kramdown
 theme: minima
 plugins:
