@@ -2,7 +2,7 @@
 layout: post
 title:  "[MYOA日积月累]自动驾驶 (1) 技术框架"
 date:   2018-02-01 17:10:53 +0800
-categories: 
+categories: zh
 ---
 
 作为系列的第一篇文章，从开放的自动驾驶框架——百度发起的Apollo，来看看自动驾驶的技术框架。
