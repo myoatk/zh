@@ -54,6 +54,6 @@ Cloud Service Platform是云服务平台，有如下的模块。
 具体框架模块在后续的文章中讨论。
 
 参考资料：
-Apollo（官网）
-ApolloAuto/apollo（Github）
-百度为何预言2050年95%汽车实现L4级自动驾驶_中证网
+* [Apollo（官网）](http://apollo.auto)
+* [ApolloAuto/apollo（Github）](http://github.com/ApolloAuto/apollo)
+* 百度为何预言2050年95%汽车实现L4级自动驾驶_中证网
