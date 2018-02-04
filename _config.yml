@@ -17,13 +17,12 @@ title: MYOA
 email: myoa.tk ＠ Ｇmail ．Com
 description: >- # this means to ignore newlines until "baseurl:"
   欢迎来到MYOA。
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/zh/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
 # Build settings
-baseurl: /zh/
 markdown: kramdown
 theme: minima
 plugins:
